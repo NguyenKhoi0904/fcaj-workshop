@@ -1,59 +1,51 @@
 ---
 title: "Worklog Tuần 1"
-date: 2024-01-01
+date: 2026-01-01
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Hiểu về chương trình First Cloud AI Journey.
+* Tìm hiểu các kiến thức cơ bản về AWS.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Đọc và lưu ý các nội quy, quy định khi lên văn phòng <br> - Tìm hiểu về chương trình FCAJ qua video Prologue: Know before you join First Cloud AI Journey |  22/06/2026  | 22/06/2026 | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
+| 3   | - Tìm hiểu về AWS, Management Console, GenAI trên AWS - Kiro, Tối ưu hóa chi phí trên AWS| 23/06/2026   | 23/06/2026      | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
+| 4   | - Tìm hiểu về cách vẽ kiến trúc AWS trên draw.io <br> - Vẽ thử một vài kiến trúc AWS cơ bản trên draw.io | 24/06/2026   | 24/06/2026      | <https://www.youtube.com/watch?v=l8isyDe-GwY&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=2> |
+| 5   | - Tìm hiểu về cách làm workshop AWS, sự khác nhau giữa tài khoản AWS miễn phí và trả phí <br> -**Thực hành**:<br>&emsp; + Tạo mới tài khoản AWS.                  | 25/06/2026   | 25/06/2026      | <https://000001.awsstudygroup.com/vi/> |
+| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Thiết lập monitoring và alerts cho chi phí trên AWS Budgets <br>&emsp; + Xây dựng ứng dụng web serverless đơn giản bằng Amazon Lambda <br>&emsp; + Tạo RDS database thông qua Amazon RDS Database <br>&emsp; + Sử dụng AI/ML qua Amazon Bedrock Playground  | 26/06/2026  | 26/06/2026  | <https://000001.awsstudygroup.com/vi/> |
 
 
-### Kết quả đạt được tuần 1:
+### Kết quả đạt được:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
+* Hiểu tổng quan về nền tảng điện toán đám mây AWS và nắm được vai trò của một số nhóm dịch vụ cơ bản như: 
   * Compute
-  * Storage
-  * Networking 
   * Database
-  * ...
+  * Serverless 
+  * Artificial Intelligence / Machine Learning (AI/ML)
+  * Cost Management
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Hiểu mục tiêu, lộ trình học tập và các quy định khi tham gia chương trình First Cloud AI Journey (FCAJ)
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Đã tạo thành công tài khoản AWS bản trả phí thành công để phục vụ quá trình học tập và thực hành.
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
+* Làm quen với AWS Management Console và biết cách tìm kiếm, truy cập các dịch vụ AWS thông qua giao diện web.
 
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
+* Thực hành triển khai và sử dụng một số dịch vụ AWS cơ bản như:
+  * Tạo và quản lý Amazon EC2 Instance.
+  * Thiết lập giám sát chi phí và cảnh báo ngân sách với AWS Budgets.
+  * Xây dựng ứng dụng web serverless đơn giản bằng AWS Lambda.
+  * Tạo và quản lý cơ sở dữ liệu với Amazon RDS.
+  * Trải nghiệm các tính năng AI tạo sinh thông qua Amazon Bedrock Playground.
 
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
+* Bước đầu hiểu được vai trò và cách phối hợp của các dịch vụ AWS trong việc xây dựng một hệ thống ứng dụng trên nền tảng đám mây.
 
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Biết cách vẽ cách kiến trúc AWS trên draw.io cũng như hiểu cách làm workshop của chương trình FCAJ.
 
 
