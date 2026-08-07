@@ -6,16 +6,20 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Bài thu hoạch “FCAJ Community Day - June 2026”
+# Bài thu hoạch sự kiện “FCAJ Community Day - June 2026”
 
-**Thời gian:** 9:00 - 12:00, Thứ 7, 27/06/2026
+**Thời gian:** 9:00AM - 12:00PM, Thứ 7, 27/06/2026
 **Địa điểm:** Tầng 36, Bitexco Financial Tower, 2 Đ. Hải Triều, Sài Gòn, Hồ Chí Minh 700000, Việt Nam.
 **Vai trò:** Người tham dự.
 **Các diễn giả:** <br>
-- Nhat Tran (CTO at CloudThinker)
-- Trung Vu (CEO Revve AI)
-- Kiet Tran (AI Engineer)
-- Nghị Danh Hoàng Hiếu (Renova Cloud)
+- Steve Trần - CTO at CloudThinker
+- Trung Vũ - CEO Revve AI
+- Kiệt Trần - AI Engineer
+- Hiếu Nghị - Renova Cloud
+- Chị Bảo, anh Nguyên Nguyễn - Cloud Engineer, Cloud Kinetics VietNam
+- Trường Trần - AI Solution Sales, Noventiq VietNam.
+- Anh Đặng - Solution Sales, Noventiq VietNam.
+- Toàn Nguyễn - AWS Security Builder.
 
 ##### Nội dung chính:
 - Deep Response Engine: Từ phát hiện sự cố đến tự động xử lý

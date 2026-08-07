@@ -8,21 +8,20 @@ pre: " <b> 1.1. </b> "
 
 
 ### Mục tiêu tuần 1:
-
 * Hiểu về chương trình First Cloud AI Journey.
 * Tìm hiểu các kiến thức cơ bản về AWS.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Đọc và lưu ý các nội quy, quy định khi lên văn phòng <br> - Tìm hiểu về chương trình FCAJ qua video Prologue: Know before you join First Cloud AI Journey |  22/06/2026  | 22/06/2026 | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
-| 3   | - Tìm hiểu về AWS, Management Console, GenAI trên AWS - Kiro, Tối ưu hóa chi phí trên AWS| 23/06/2026   | 23/06/2026      | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
-| 4   | - Tìm hiểu về cách vẽ kiến trúc AWS trên draw.io <br> - Vẽ thử một vài kiến trúc AWS cơ bản trên draw.io | 24/06/2026   | 24/06/2026      | <https://www.youtube.com/watch?v=l8isyDe-GwY&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=2> |
-| 5   | - Tìm hiểu về cách làm workshop AWS, sự khác nhau giữa tài khoản AWS miễn phí và trả phí <br> -**Thực hành**:<br>&emsp; + Tạo mới tài khoản AWS.                  | 25/06/2026   | 25/06/2026      | <https://000001.awsstudygroup.com/vi/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Thiết lập monitoring và alerts cho chi phí trên AWS Budgets <br>&emsp; + Xây dựng ứng dụng web serverless đơn giản bằng Amazon Lambda <br>&emsp; + Tạo RDS database thông qua Amazon RDS Database <br>&emsp; + Sử dụng AI/ML qua Amazon Bedrock Playground  | 26/06/2026  | 26/06/2026  | <https://000001.awsstudygroup.com/vi/> |
+| 2   | - Đọc và lưu ý các nội quy, quy định khi lên văn phòng <br> - Tìm hiểu về chương trình FCAJ qua video Prologue: Know before you join First Cloud AI Journey | 22/06/2026 | 22/06/2026 | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
+| 3   | - Tìm hiểu về AWS, Management Console, GenAI trên AWS - Kiro, Tối ưu hóa chi phí trên AWS| 23/06/2026 | 23/06/2026 | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
+| 4   | - Tìm hiểu về cách vẽ kiến trúc AWS trên draw.io <br> - Vẽ thử một vài kiến trúc AWS cơ bản trên draw.io | 24/06/2026 | 24/06/2026 | <https://www.youtube.com/watch?v=l8isyDe-GwY&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=2> |
+| 5   | - Tìm hiểu về cách làm workshop AWS, sự khác nhau giữa tài khoản AWS miễn phí và trả phí <br> -**Thực hành**:<br>&emsp; + Tạo mới tài khoản AWS.                  | 25/06/2026 | 25/06/2026 | <https://000001.awsstudygroup.com/vi/> |
+| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Thiết lập monitoring và alerts cho chi phí trên AWS Budgets <br>&emsp; + Xây dựng ứng dụng web serverless đơn giản bằng Amazon Lambda <br>&emsp; + Tạo RDS database thông qua Amazon RDS Database <br>&emsp; + Sử dụng AI/ML qua Amazon Bedrock Playground  | 26/06/2026 | 26/06/2026 | <https://000001.awsstudygroup.com/vi/> |
 
 
-### Kết quả đạt được:
+### Kết quả đạt được trong tuần 1:
 
 * Hiểu tổng quan về nền tảng điện toán đám mây AWS và nắm được vai trò của một số nhóm dịch vụ cơ bản như: 
   * Compute
