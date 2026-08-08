@@ -22,29 +22,28 @@ pre: " <b> 1.1. </b> "
 
 
 ### Kết quả đạt được trong tuần 1:
+- Hiểu tổng quan về nền tảng điện toán đám mây AWS và nắm được vai trò của một số nhóm dịch vụ cơ bản như:
+  - Compute
+  - Database
+  - Serverless
+  - Artificial Intelligence / Machine Learning (AI/ML)
+  - Cost Management
 
-* Hiểu tổng quan về nền tảng điện toán đám mây AWS và nắm được vai trò của một số nhóm dịch vụ cơ bản như: 
-  * Compute
-  * Database
-  * Serverless 
-  * Artificial Intelligence / Machine Learning (AI/ML)
-  * Cost Management
+- Hiểu mục tiêu, lộ trình học tập và các quy định khi tham gia chương trình First Cloud AI Journey (FCAJ)
 
-* Hiểu mục tiêu, lộ trình học tập và các quy định khi tham gia chương trình First Cloud AI Journey (FCAJ)
+- Đã tạo thành công tài khoản AWS bản trả phí thành công để phục vụ quá trình học tập và thực hành.
 
-* Đã tạo thành công tài khoản AWS bản trả phí thành công để phục vụ quá trình học tập và thực hành.
+- Làm quen với AWS Management Console và biết cách tìm kiếm, truy cập các dịch vụ AWS thông qua giao diện web.
 
-* Làm quen với AWS Management Console và biết cách tìm kiếm, truy cập các dịch vụ AWS thông qua giao diện web.
+- Thực hành triển khai và sử dụng một số dịch vụ AWS cơ bản như:
+  - Tạo và quản lý Amazon EC2 Instance.
+  - Thiết lập giám sát chi phí và cảnh báo ngân sách với AWS Budgets.
+  - Xây dựng ứng dụng web serverless đơn giản bằng AWS Lambda.
+  - Tạo và quản lý cơ sở dữ liệu với Amazon RDS.
+  - Trải nghiệm các tính năng AI tạo sinh thông qua Amazon Bedrock Playground.
 
-* Thực hành triển khai và sử dụng một số dịch vụ AWS cơ bản như:
-  * Tạo và quản lý Amazon EC2 Instance.
-  * Thiết lập giám sát chi phí và cảnh báo ngân sách với AWS Budgets.
-  * Xây dựng ứng dụng web serverless đơn giản bằng AWS Lambda.
-  * Tạo và quản lý cơ sở dữ liệu với Amazon RDS.
-  * Trải nghiệm các tính năng AI tạo sinh thông qua Amazon Bedrock Playground.
+- Bước đầu hiểu được vai trò và cách phối hợp của các dịch vụ AWS trong việc xây dựng một hệ thống ứng dụng trên nền tảng đám mây.
 
-* Bước đầu hiểu được vai trò và cách phối hợp của các dịch vụ AWS trong việc xây dựng một hệ thống ứng dụng trên nền tảng đám mây.
-
-* Biết cách vẽ cách kiến trúc AWS trên draw.io cũng như hiểu cách làm workshop của chương trình FCAJ.
+- Biết cách vẽ cách kiến trúc AWS trên draw\.io cũng như hiểu cách làm workshop của chương trình FCAJ.
 
 

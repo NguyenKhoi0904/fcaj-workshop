@@ -1,57 +1,48 @@
 ---
 title: "Week 1 Worklog"
-date: 2024-01-01
+date: 2026-01-01
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 1 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Understood the First Cloud AI Journey (FCAJ) program.
+* Learned the basics of Amazon Web Services (AWS).
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Read and reviewed the office rules and regulations. <br> - Learned about the First Cloud AI Journey (FCAJ) program through the Prologue video, *Know Before You Join First Cloud AI Journey*.                                                                                                   |  22/06/2026  |  22/06/2026  | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
+| 3   | - Learned about Amazon Web Services (AWS), the AWS Management Console, Generative AI on AWS (Kiro), and AWS cost optimization.                                              |  23/06/2026  |  23/06/2026  | <https://www.youtube.com/watch?v=Gz56QzLQ_Yo&list=PLahN4TLWtox3TSYFbN1DNX7NZgTVXNj3x> |
+| 4   | - Learned how to design AWS architectures using draw.io. <br> - Practiced creating several basic AWS architecture diagrams in draw.io. |  24/06/2026  |  08/13/2025  | <https://www.youtube.com/watch?v=l8isyDe-GwY&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=2> |
+| 5   | - Learned how to complete AWS workshops. <br> - Learned the differences between AWS Free Tier and paid AWS accounts. <br> - **Hands-on:**<br>&emsp;+ Created a new AWS account.                            |  25/06/2026  |  25/06/2026  | <https://000001.awsstudygroup.com/vi/> |
+| 6   | - **Hands-on:** <br>&emsp;+ Created an Amazon EC2 instance. <br>&emsp;+ Configured AWS Budgets for cost monitoring and alerts. <br>&emsp;+ Built a simple serverless web application using AWS Lambda. <br>&emsp;+ Created a database using Amazon RDS. <br>&emsp;+ Explored Amazon Bedrock Playground for AI/ML applications.                                                                                     |  26/06/2026  |  08/15/2025  | <https://000001.awsstudygroup.com/vi/> |
 
 
 ### Week 1 Achievements:
-
-* Understood what AWS is and mastered the basic service groups: 
+* Gained an overall understanding of the AWS cloud computing platform and the roles of its core service categories, including:
   * Compute
-  * Storage
-  * Networking 
   * Database
-  * ...
+  * Serverless
+  * Artificial Intelligence / Machine Learning (AI/ML)
+  * Cost Management
 
-* Successfully created and configured an AWS Free Tier account.
+* Understood the objectives, learning roadmap, and regulations of the First Cloud AI Journey (FCAJ) program.
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
+* Successfully created a paid AWS account for learning and hands-on practice.
 
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
+* Became familiar with the AWS Management Console and learned how to search for, access, and use AWS services through the web interface.
 
-* Used AWS CLI to perform basic operations such as:
+* Gained hands-on experience with several core AWS services, including:
+  * Creating and managing Amazon EC2 instances.
+  * Configuring cost monitoring and budget alerts using AWS Budgets.
+  * Building a simple serverless web application with AWS Lambda.
+  * Creating and managing databases using Amazon RDS.
+  * Exploring generative AI capabilities through Amazon Bedrock Playground.
 
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
+* Developed a basic understanding of how AWS services work together to build cloud-based applications.
 
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Learned how to design AWS architecture diagrams using draw.io and became familiar with the workflow for completing FCAJ workshops.

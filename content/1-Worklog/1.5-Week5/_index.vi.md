@@ -9,48 +9,43 @@ pre: " <b> 1.5. </b> "
 
 ### Mục tiêu tuần 5:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Thực hành về Amazon SageMaker, AWS CLI
+* Làm Project kĩ thuật
+* Làm FCAJ workshop
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 20/07/2026   | 20/07/2026        |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 21/07/2026   | 21/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 22/07/2026   | 22/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 23/07/2026   | 23/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 24/07/2026   | 24/07/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - **Thực hành:**<br>&emsp;+ Tạo SageMaker Studio <br>&emsp;+ Chuẩn bị Dataset <br>&emsp;+ Cài đặt Data Wrangler <br>&emsp;+ Phân tích Dataset <br>&emsp;+ Phân tích tương quan <br>&emsp;+ Chuyển đổi dữ liệu <br>&emsp;+ Feature Store <br>&emsp;+ Export Data tới S3 <br>&emsp;+ Train & Tune model <br>&emsp;+ Deploy model <br>&emsp;+ Đánh giá hiệu suất model <br>&emsp;+ Tune model tự động                                                                                             |  20/07/2026  |  20/07/2026  | <https://cloudjourney.awsstudygroup.com/vi/7-aimlservice/> |
+| 3   | - Làm Project kỹ thuật                                            |  21/07/2026  |  21/07/2026  |  |
+| 4   | - Viết Worklog tuần 1, event 1, blog 1 |  22/07/2026  |  22/07/2026  |  |
+| 5   | - **Thực hành:**<br>&emsp;+ Khởi tạo EC2 Instance <br>&emsp;+ Cài đặt AWS CLI <br>&emsp;+ Kiểm tra tài nguyên qua CLI <br>&emsp;+ Sử dụng AWS CLI để khởi tạo tài nguyên S3 <br>&emsp;+ Sử dụng AWS CLI với Amazon SNS <br>&emsp;+ Sử dụng AWS CLI với IAM <br>&emsp;+ Sử dụng AWS CLI với VPC <br>&emsp;+ Sử dụng AWS CLI với Internet Gateway <br>&emsp;+ Tạo EC2 sử dụng AWS CLI                 |  23/07/2026  |  23/07/2026  | <https://000011.awsstudygroup.com/vi/> |
+| 6   | - Làm Project kỹ thuật                                                                                         |  24/07/2026  |  24/07/2026  |  |
 
 
 ### Kết quả đạt được tuần 5:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
+* Thực hành quy trình xây dựng và triển khai mô hình Machine Learning trên Amazon SageMaker, bao gồm:
+    * Khởi tạo SageMaker Studio.
+    * Chuẩn bị và phân tích Dataset.
+    * Sử dụng SageMaker Data Wrangler để xử lý và chuyển đổi dữ liệu.
+    * Phân tích tương quan giữa các đặc trưng.
+    * Quản lý Feature với SageMaker Feature Store.
+    * Export dữ liệu lên Amazon S3.
+    * Train và Tune model.
+    * Deploy model.
+    * Đánh giá hiệu suất model.
+    * Thực hiện tự động hóa quá trình Model Tuning.
+* Hiểu được quy trình cơ bản của Machine Learning Workflow trên AWS, từ bước chuẩn bị và xử lý dữ liệu đến huấn luyện, tối ưu, triển khai và đánh giá mô hình.
+* Sử dụng AWS CLI để kiểm tra và quản lý tài nguyên AWS, bao gồm:
+    * Amazon S3.
+    * Amazon SNS.
+    * AWS IAM.
+    * Amazon VPC.
+    * Internet Gateway.
+    * Amazon EC2.
+* Thực hành khởi tạo và quản lý AWS resources bằng AWS CLI, qua đó hiểu rõ hơn cách sử dụng CLI bên cạnh AWS Management Console.
+* Hoàn thành Worklog tuần 1, Event 1 và Blog 1, qua đó rèn luyện khả năng ghi chép, tổng hợp và trình bày lại kiến thức đã học trong chương trình FCAJ.
+* Bắt đầu triển khai technical project, đồng thời vận dụng các kiến thức về AWS vào quá trình xây dựng và phát triển project.
 
 
