@@ -26,7 +26,7 @@ chapter: false
 &emsp; **Thời gian thực tập:** Từ ngày 22/06/2026 đến ngày 15/08/2026
 
 <img src="/fcaj-workshop/images/My_self.jpg" alt="My profile" width="20%">
-![Ảnh đại diện của bạn](/fcaj-workshop/images/My_self.jpg)
+<!-- ![Ảnh đại diện của bạn](/fcaj-workshop/images/My_self.jpg) -->
 
 
 
