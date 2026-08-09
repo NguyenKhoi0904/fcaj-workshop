@@ -10,7 +10,7 @@ pre: " <b> 1.5. </b> "
 ### Mục tiêu tuần 5:
 
 * Thực hành về Amazon SageMaker, AWS CLI
-* Làm Project kĩ thuật
+* Làm Project kỹ thuật
 * Làm FCAJ workshop
 
 ### Các công việc cần triển khai trong tuần này:
