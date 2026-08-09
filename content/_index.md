@@ -27,7 +27,8 @@ chapter: false
 
 &emsp; **Internship Duration:** From 22/06/2026 to 15/08/2026
 
-![Your profile picture](/images/avatar.png)
+<img src="/fcaj-workshop/images/My_self.jpg" alt="My profile" width="20%">
+![Your profile picture](/fcaj-workshop/images/My_self.jpg)
 
 ### Report Content
 
