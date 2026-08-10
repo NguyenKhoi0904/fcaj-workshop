@@ -7,7 +7,8 @@ pre: " <b> 4. </b> "
 ---
 
 
-Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là nhứng món quà và những khoảnh khắc rất tuyệt vời.
+Trong quá trình thực tập, em đã có cơ hội tham gia 3 sự kiện. Mỗi sự kiện đều mang đến cho em những trải nghiệm đáng nhớ, giúp em tiếp thu thêm nhiều kiến thức mới, bổ ích và có giá trị. Bên cạnh những kiến thức và trải nghiệm thực tế, em cũng có cơ hội nhận được những món quà ý nghĩa và lưu giữ nhiều khoảnh khắc đáng nhớ trong suốt chương trình.
+
 
 ### [Event 1](4.1-Event1/)
 &emsp;**Tên sự kiện:** FCAJ Community Day - June 2026

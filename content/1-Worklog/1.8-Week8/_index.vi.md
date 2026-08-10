@@ -17,8 +17,8 @@ pre: " <b> 1.8. </b> "
 | 2   | - Hoàn thiện project kỹ thuật                                            |  10/08/2026  |  10/08/2026  |  |
 | 3   | - Viết phần event 3, blog posted 3, triển khai workshop bằng Github                                             |  11/08/2026  |  11/08/2026  |  |
 | 4   | - Viết phần self-evaluation, feedback, proposal                                           |  12/08/2026  |  12/08/2026  |  |
-| 5   | - Viết phần 5. Workshop                                            |  13/08/2026  |  13/08/2026  |  |
-| 6   | - Hoàn thành phần 5. Workshop, worklog tuần 8                                             |  14/08/2026  |  14/08/2026  |  |
+| 5   | - Viết phần hướng dẫn triển khai Project kỹ thuật trên AWS.                                            |  13/08/2026  |  13/08/2026  |  |
+| 6   | - Hoàn thành phần hướng dẫn triển khai Project kỹ thuật trên AWS, worklog tuần 8                                             |  14/08/2026  |  14/08/2026  |  |
 
 
 ### Kết quả đạt được tuần 8:
