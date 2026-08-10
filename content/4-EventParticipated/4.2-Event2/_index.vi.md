@@ -31,5 +31,5 @@ Phần thực hành: Tập trung vào việc hướng dẫn mọi người thự
 Qua sự kiện Agent Forge - Deepdive Day 1 này, em hiểu rõ hơn về khái niệm Agentic AI và cách xây dựng các AI Agent có khả năng tự lập kế hoạch, thực thi nhiệm vụ và tương tác với các dịch vụ bên ngoài. Em cũng nắm được kiến trúc của Amazon Bedrock Agent Core, bao gồm các thành phần Runtime, Identity và Gateway, cùng vai trò của từng thành phần trong quá trình triển khai và vận hành AI Agent. Bên cạnh đó, em nhận thức được tầm quan trọng của bảo mật khi triển khai hệ thống AI thông qua việc kết hợp Amazon VPC và AWS PrivateLink. Phần thực hành giúp em làm quen với quy trình cấu hình môi trường và triển khai các dịch vụ của Bedrock Agent Core, từ đó hiểu rõ hơn mối liên hệ giữa lý thuyết và ứng dụng thực tế.
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
+<img src="/fcaj-workshop/images/AWS_Event_2_01.jpg" alt="My profile" width="50%">
+

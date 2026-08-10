@@ -63,5 +63,4 @@ Sau khi tham gia sự kiện, em nhận thấy AI và điện toán đám mây �
 
 
 #### Một số hình ảnh khi tham gia sự kiện
-* Thêm các hình ảnh của các bạn tại đây
-> Tổng thể, sự kiện không chỉ cung cấp kiến thức kỹ thuật mà còn giúp tôi thay đổi cách tư duy về thiết kế ứng dụng, hiện đại hóa hệ thống và phối hợp hiệu quả hơn giữa các team.
+<img src="/fcaj-workshop/images/AWS_Event_1_03.jpg" alt="My profile" width="50%">
