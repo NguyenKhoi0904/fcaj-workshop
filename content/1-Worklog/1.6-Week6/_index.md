@@ -9,46 +9,36 @@ pre: " <b> 1.6. </b> "
 
 
 ### Week 6 Objectives:
-
-* 
+* Work on the technical project.
+* Continue writing the FCAJ workshop.
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | -                                                                                                    | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Work on the technical project                                              |  27/07/2026  |  27/07/2026  |  |
+| 3   | - Work on the technical project                                              |  28/07/2026  |  28/07/2026  |  |
+| 4   | - Write Week 2 and Week 3 Worklogs, Week 4 Worklog, and Blog Posted 1                                              |  29/07/2026  |  29/07/2026  |  |
+| 5   | - **Hands-on:**<br>&emsp;+ Create an S3 Bucket <br>&emsp;+ Upload data <br>&emsp;+ Enable Static Website Hosting <br>&emsp;+ Configure Block Public Access <br>&emsp;+ Configure public access for objects <br>&emsp;+ Test the website <br>&emsp;+ Block all public access to S3 <br>&emsp;+ Configure Amazon CloudFront <br>&emsp;+ Test Amazon CloudFront <br>&emsp;+ Enable Bucket Versioning <br>&emsp;+ Move objects <br>&emsp;+ Copy S3 Objects to another Region                                             |  30/07/2026  |  30/07/2026  |  |
+| 6   | - Work on the technical project                                              |  31/07/2026  |  31/07/2026  |  |
 
 
 ### Week 6 Achievements:
-
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Continued working on the technical project while applying AWS and cloud computing knowledge to the project's development.
+* Gained hands-on experience managing and deploying a static website using Amazon S3, including:
+    * Creating and configuring an S3 Bucket.
+    * Uploading data to S3.
+    * Enabling Static Website Hosting.
+    * Configuring Block Public Access.
+    * Configuring public access permissions for objects.
+    * Testing website functionality.
+    * Blocking all public access to S3.
+* Learned how to use Amazon CloudFront to distribute content from S3 and gained hands-on experience with:
+    * Configuring a CloudFront Distribution.
+    * Testing website functionality through CloudFront.
+* Gained hands-on experience managing versions and data on Amazon S3, including:
+    * Enabling and using Bucket Versioning.
+    * Moving S3 Objects.
+    * Copying S3 Objects to another AWS Region.
+* Understand how to combine Amazon S3 and Amazon CloudFront to deploy and distribute a static website while improving access control and data protection on S3.
+* Completed the Week 2, Week 3, and Week 4 Worklogs and Blog Posted 1.
+* Continued developing skills in deploying and managing AWS resources through hands-on labs and technical projects in the FCAJ program.

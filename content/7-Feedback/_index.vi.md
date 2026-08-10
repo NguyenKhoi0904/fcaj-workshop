@@ -1,44 +1,40 @@
 ---
 title: "Chia sẻ, đóng góp ý kiến"
-date: 2024-01-01
+date: 2026-01-01
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 >Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
 
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCAJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+Môi trường tại FCAJ tạo cho mình cảm giác thoải mái và khá dễ dàng để thích nghi ngay từ thời gian đầu. Mọi người giao tiếp cởi mở, không tạo khoảng cách giữa team admin và thực tập sinh. Bên cạnh đó, không gian làm việc được duy trì sạch sẽ và yên tĩnh, phù hợp cho những công việc cần nhiều thời gian tập trung.
 
 **2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+Mentor không chỉ tập trung vào việc hướng dẫn nội dung chuyên môn mà còn giúp mình hình thành cách tiếp cận vấn đề một cách có hệ thống. Khi gặp một vấn đề chưa rõ, mình thường được gợi ý hướng giải quyết và tự tìm hiểu thêm thay vì được cung cấp ngay lời giải. Cách hướng dẫn này giúp mình rèn luyện khả năng tự học và xử lý vấn đề độc lập. Bên cạnh đó, team admin hỗ trợ tốt trong việc cung cấp thông tin, tài liệu và giải quyết các vấn đề liên quan đến quá trình thực tập
 
 **3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Công việc mình được giao phù hợp với kiến thức mình đã học ở trường, đồng thời mở rộng thêm những mảng mới mà mình chưa từng được tiếp cận. Nhờ vậy, mình vừa củng cố kiến thức nền tảng, vừa học thêm kỹ năng thực tế.
+Các nhiệm vụ trong quá trình thực tập có sự liên kết tương đối rõ với chuyên ngành và kiến thức mình đang theo học. Những kiến thức lý thuyết trước đây được đặt vào các tình huống thực tế, qua đó giúp mình hiểu rõ hơn cách chúng được áp dụng trong công việc. Đồng thời, chương trình cũng đưa mình tiếp cận với một số công nghệ và quy trình mà việc học trên trường chưa có nhiều cơ hội thực hành. Đây là điểm giúp khoảng cách giữa kiến thức học thuật và yêu cầu thực tế được thu hẹp đáng kể.
 
 **4. Cơ hội học hỏi & phát triển kỹ năng**  
-Trong quá trình thực tập, mình học được nhiều kỹ năng mới như sử dụng công cụ quản lý dự án, kỹ năng làm việc nhóm, và cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Mentor cũng chia sẻ nhiều kinh nghiệm thực tế giúp mình định hướng tốt hơn cho sự nghiệp.
+Quá trình thực tập không chỉ giúp mình phát triển về mặt chuyên môn mà còn cải thiện nhiều kỹ năng làm việc. Mình có cơ hội làm quen với quy trình triển khai công việc, cách theo dõi tiến độ và phối hợp với những thành viên khác trong nhóm. Việc thường xuyên tự tìm hiểu tài liệu và giải quyết các vấn đề phát sinh cũng giúp mình nâng cao khả năng tự học. Những trải nghiệm này giúp mình có cái nhìn thực tế hơn về yêu cầu của một vị trí trong ngành công nghệ.
 
 **5. Văn hóa & tinh thần đồng đội**  
-Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
+Mình đánh giá cao tinh thần hợp tác giữa các thành viên trong FCAJ. Trong quá trình làm việc, mọi người có sự trao đổi thường xuyên và sẵn sàng chia sẻ kinh nghiệm khi cần thiết. Mỗi thành viên vẫn có trách nhiệm với phần việc của mình nhưng không hoạt động hoàn toàn độc lập, mà luôn có sự phối hợp khi công việc yêu cầu. Điều này tạo ra một môi trường mà mình có thể học hỏi từ những người xung quanh và chủ động đóng góp vào công việc chung.
 
 **6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
+Chương trình thực tập có những hỗ trợ phù hợp để thực tập sinh có thể duy trì quá trình học tập và làm việc một cách thuận lợi. Bên cạnh đó, sự linh hoạt trong thời gian làm việc cũng giúp mình có thể cân đối giữa các yêu cầu cá nhân và công việc. Việc được tiếp cận các chương trình đào tạo, tài liệu và hoạt động học tập nội bộ cũng mang lại giá trị thiết thực đối với quá trình phát triển chuyên môn.
 
 
-### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+### Góc chia sẻ
+- Mình hài lòng nhất với cơ hội được học hỏi từ môi trường thực tế, đặc biệt là sự hướng dẫn và chia sẻ kinh nghiệm từ mentor cũng như team admin.  
+- Không chỉ thế, chương trình FCAJ có thể tổ chức thêm các hoạt động giao lưu, team bonding và tăng thêm cơ hội để thực tập sinh trao đổi, kết nối với nhau.  
+- Mình sẽ giới thiệu cho bạn về chương trình FCAJ vì môi trường làm việc phù hợp để học hỏi, phát triển chuyên môn và rèn luyện các kỹ năng thực tế.
 
 
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+- Mình đề xuất bổ sung máy lọc nước hoặc máy nước uống tự động tại văn phòng, giúp thực tập sinh thuận tiện sử dụng nước trong suốt thời gian làm việc.
+- Trong tương lai, mình mong muốn tiếp tục tham gia chương trình FCAJ để có thêm cơ hội học hỏi, trau dồi kiến thức chuyên môn và phát triển các kỹ năng thực tế.
