@@ -29,9 +29,6 @@ fetch(`https://cognito-idp.${region}.amazonaws.com/`, {
 
 App Client phía Terraform là **public client** (`generate_secret = false`) — phù hợp vì code chạy hoàn toàn ở trình duyệt, không có nơi nào an toàn để giữ client secret.
 
-![Gọi trực tiếp InitiateAuth qua fetch, xem trong DevTools Network](../images/01-initiate-auth-network-tab.png)
-_Tab Network: POST tới `cognito-idp.<region>.amazonaws.com` với header `X-Amz-Target`._
-
 #### Vòng đời token — không có refresh flow
 
 ```javascript
@@ -70,9 +67,6 @@ File example Terraform đặt `api_require_api_key = true`, nghĩa là mọi rou
 4 route (`/chat`, `/documents`, `/status`, `/documents-decision`) đều gắn `COGNITO_USER_POOLS` authorizer; chỉ preflight `OPTIONS` là `authorization = "NONE"` (bắt buộc — trình duyệt gửi preflight không kèm `Authorization`). `OPTIONS` chỉ trả header CORS qua tích hợp `MOCK`, không chạm Lambda hay dữ liệu thật (chi tiết hạ tầng: [5.4.1](../../5.4-Realtime-QA/5.4.1-API-Gateway-Cognito/)).
 
 Mọi request backend đi qua helper `api()` — ghép endpoint đã cấu hình và gắn `Authorization: state.token`. Nút Upload / Gửi câu hỏi chỉ mở sau khi login. Challenge phụ (MFA, …) báo lỗi rõ — MFA mặc định tắt trong stack này.
-
-![Token hết hạn, giao diện báo lỗi rõ ràng yêu cầu đăng nhập lại](../images/02-token-expired-message.png)
-_Sau ~60 phút, thao tác tiếp theo trả 401; UI yêu cầu đăng nhập lại thay vì treo im lặng._
 
 ---
 

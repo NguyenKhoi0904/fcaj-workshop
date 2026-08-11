@@ -29,9 +29,6 @@ fetch(`https://cognito-idp.${region}.amazonaws.com/`, {
 
 The Terraform App Client is a **public client** (`generate_secret = false`) — correct for browser-only code, where there is nowhere safe to keep a client secret.
 
-![Direct InitiateAuth via fetch in DevTools Network](../images/01-initiate-auth-network-tab.png)
-_DevTools Network: POST to `cognito-idp.<region>.amazonaws.com` with header `X-Amz-Target`._
-
 #### Token lifecycle — no refresh flow
 
 ```javascript
@@ -70,9 +67,6 @@ Terraform example sets `api_require_api_key = true`, which requires header `x-ap
 All four routes (`/chat`, `/documents`, `/status`, `/documents-decision`) use a `COGNITO_USER_POOLS` authorizer. Only preflight `OPTIONS` is `authorization = "NONE"` (required — the browser does not send `Authorization` on preflight). `OPTIONS` returns CORS headers via a `MOCK` integration and never hits Lambda or real data (infra detail: [5.4.1](../../5.4-Realtime-QA/5.4.1-API-Gateway-Cognito/)).
 
 Every backend call goes through a shared `api()` helper that prefixes the configured endpoint and sets `Authorization: state.token`. Upload and Ask stay disabled until login succeeds. Extra Cognito challenges (MFA, etc.) surface as errors — MFA is off by default in this stack.
-
-![Clear error when the token has expired](../images/02-token-expired-message.png)
-_After ~60 minutes, the next call returns 401; the UI asks the user to sign in again instead of hanging silently._
 
 ---
 
