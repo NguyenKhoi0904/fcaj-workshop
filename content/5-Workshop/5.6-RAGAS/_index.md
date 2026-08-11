@@ -22,7 +22,7 @@ The stream consists of 3 main parts:
 
 #### Data Flow Diagram
 
-![Diagram of Stream 4 - RAG Evaluation RAGAS](/images/5-Workshop/5.6-RAGAS/image.png)
+![Diagram of Stream 4 - RAG Evaluation RAGAS](/fcaj-workshop/images/5-Workshop/5.6-RAGAS/image.png)
 _Diagram: Daily EventBridge Scheduler trigger → RAGAS Evaluation Runner Lambda (reading data from DynamoDB Feedback Store and Chat History) → storing results in S3 Evaluation Results._
 
 #### Detailed Contents

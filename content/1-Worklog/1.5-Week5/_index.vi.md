@@ -17,10 +17,10 @@ pre: " <b> 1.5. </b> "
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 2   | - **Thực hành:**<br>&emsp;+ Tạo SageMaker Studio <br>&emsp;+ Chuẩn bị Dataset <br>&emsp;+ Cài đặt Data Wrangler <br>&emsp;+ Phân tích Dataset <br>&emsp;+ Phân tích tương quan <br>&emsp;+ Chuyển đổi dữ liệu <br>&emsp;+ Feature Store <br>&emsp;+ Export Data tới S3 <br>&emsp;+ Train & Tune model <br>&emsp;+ Deploy model <br>&emsp;+ Đánh giá hiệu suất model <br>&emsp;+ Tune model tự động                                                                                             |  20/07/2026  |  20/07/2026  | <https://cloudjourney.awsstudygroup.com/vi/7-aimlservice/> |
-| 3   | - Làm Project kỹ thuật                                            |  21/07/2026  |  21/07/2026  |  |
+| 3   | - Tìm hiểu Amazon Textract (OCR file scan/ảnh) <br>- **Thực hành:** Lambda poll message từ SQS và xử lý file                                            |  21/07/2026  |  21/07/2026  |  |
 | 4   | - Viết Worklog tuần 1, event 1, blog 1 |  22/07/2026  |  22/07/2026  |  |
 | 5   | - **Thực hành:**<br>&emsp;+ Khởi tạo EC2 Instance <br>&emsp;+ Cài đặt AWS CLI <br>&emsp;+ Kiểm tra tài nguyên qua CLI <br>&emsp;+ Sử dụng AWS CLI để khởi tạo tài nguyên S3 <br>&emsp;+ Sử dụng AWS CLI với Amazon SNS <br>&emsp;+ Sử dụng AWS CLI với IAM <br>&emsp;+ Sử dụng AWS CLI với VPC <br>&emsp;+ Sử dụng AWS CLI với Internet Gateway <br>&emsp;+ Tạo EC2 sử dụng AWS CLI                 |  23/07/2026  |  23/07/2026  | <https://000011.awsstudygroup.com/vi/> |
-| 6   | - Làm Project kỹ thuật                                                                                         |  24/07/2026  |  24/07/2026  |  |
+| 6   | - Build hoàn chỉnh Luồng 1 – S3 (upload) → S3 Event → SQS (buffer + retry) → Lambda (Document Processor) → OCR nếu là file scan                                                                                         |  24/07/2026  |  24/07/2026  |  |
 
 
 ### Kết quả đạt được tuần 5:
@@ -46,6 +46,7 @@ pre: " <b> 1.5. </b> "
     * Amazon EC2.
 * Thực hành khởi tạo và quản lý AWS resources bằng AWS CLI, qua đó hiểu rõ hơn cách sử dụng CLI bên cạnh AWS Management Console.
 * Hoàn thành Worklog tuần 1, Event 1 và Blog 1, qua đó rèn luyện khả năng ghi chép, tổng hợp và trình bày lại kiến thức đã học trong chương trình FCAJ.
-* Bắt đầu triển khai technical project, đồng thời vận dụng các kiến thức về AWS vào quá trình xây dựng và phát triển project.
+* Hiểu và triển khai được kiến trúc event-driven cơ bản: S3 Event → SQS → Lambda.
+* Tự động OCR được file ảnh/scan bằng Amazon Textract.
 
 

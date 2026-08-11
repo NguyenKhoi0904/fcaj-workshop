@@ -31,7 +31,7 @@ Giao diện chia **2 cột**: **trái** là khu thao tác (đăng nhập, tải 
 
 #### Sơ đồ giao diện
 
-![Giao diện 2 cột: khu thao tác và khu quan sát pipeline](/images/5-Workshop/5.7-Frontend/image.png)
+![Giao diện 2 cột: khu thao tác và khu quan sát pipeline](/fcaj-workshop/images/5-Workshop/5.7-Frontend/image.png)
 _Ảnh chụp console 2 cột thật (trái: kết nối / upload / chat; phải: pipeline + nhật ký)._
 
 #### Nội dung chi tiết

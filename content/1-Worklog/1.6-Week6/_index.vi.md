@@ -14,11 +14,11 @@ pre: " <b> 1.6. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm project kỹ thuật                                            |  27/07/2026  |  27/07/2026  |  |
-| 3   | - Làm project kỹ thuật                                            |  28/07/2026  |  28/07/2026  |  |
+| 2   | - Sync nhanh với nhóm trước khi bắt đầu.<br>- Tìm hiểu Amazon Cognito: tạo User Pool, App Client (không dùng client secret vì gọi từ frontend), gắn Cognito Authorizer vào API Gateway.                                            |  27/07/2026  |  27/07/2026  |  |
+| 3   | - Thống nhất với nhóm mục tiêu ngày hôm nay.<br>- Nghiên cứu Amazon ElastiCache Serverless & Semantic Cache (tính embedding câu hỏi mới, so sánh cosine similarity với ngưỡng threshold)                                            |  28/07/2026  |  28/07/2026  |  |
 | 4   | - Viết Worklog tuần 2, 3, 4 và Blog posted 1                                            |  29/07/2026  |  29/07/2026  |  |
 | 5   | - **Thực hành:**<br>&emsp;+ Tạo S3 bucket <br>&emsp;+ Tải dữ liệu <br>&emsp;+ Bật tính năng static website <br>&emsp;+  Cấu hình Block Public Access <br>&emsp;+ Cấu hình public object <br>&emsp;+ Kiểm Tra Website <br>&emsp;+ Chặn tất cả truy cập công cộng vào S3 <br>&emsp;+ Cấu hình Amazon CloudFront <br>&emsp;+ Kiểm tra Amazon CloudFront <br>&emsp;+ Bucket Versioning <br>&emsp;+  Di chuyển Object <br>&emsp;+ Sao chép S3 Object sang region khác                                           |  30/07/2026  |  30/07/2026  | <https://000057.awsstudygroup.com/vi/> |
-| 6   | - Làm project kỹ thuật                                            |  31/07/2026  |  31/07/2026  |  |
+| 6   | - Thiết kế luồng: Câu hỏi → Embedding → Tra Redis (ElastiCache) → Nếu miss mới đi tiếp retrieval + Bedrock.                                            |  31/07/2026  |  31/07/2026  |  |
 
 
 ### Kết quả đạt được tuần 6:

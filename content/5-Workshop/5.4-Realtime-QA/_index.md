@@ -20,7 +20,7 @@ The stream operates with **a single `chat_engine` Lambda serving 4 API routes**,
 
 #### Data Flow Diagram
 
-![Detailed Diagram for Stream 2 - Realtime Q&A](/images/5-Workshop/5.4-Realtime-QA/image.png)
+![Detailed Diagram for Stream 2 - Realtime Q&A](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image.png)
 
 #### Detailed Contents
 

@@ -12,8 +12,8 @@ CI/CD only handles the **trigger** — initial setup still requires manual steps
 
 1. **Add secret `TF_API_TOKEN`** — `Settings → Secrets and variables → Actions → New repository secret`. Retrieve the token from HCP Terraform: `User Settings → Tokens` (or a **Team Token** for org `RAGonAWS` for tighter permissions). This secret is **shared by both workflows** (`ci.yml` for `terraform plan`, `deploy.yml` for `terraform apply`).
 
-![Add secret 1](/images/5-Workshop/5.9-CICD/image5.9.3-1.png)
-![Add secret 2](/images/5-Workshop/5.9-CICD/image5.9.3-2.png)
+![Add secret 1](/fcaj-workshop/images/5-Workshop/5.9-CICD/image5.9.3-1.png)
+![Add secret 2](/fcaj-workshop/images/5-Workshop/5.9-CICD/image5.9.3-2.png)
 
 {{% notice note %}}
 📌 **No AWS access keys need to be added to GitHub.** `terraform apply` runs on an **HCP Terraform worker** (Remote execution mode — see [overview page](../)), not on the GitHub Actions runner. AWS credentials reside in **workspace variables within HCP Terraform**, pre-configured and isolated from GitHub Actions. This is a side benefit of Remote execution: the attack surface on the GitHub side is smaller compared to placing AWS credentials directly as GitHub Secrets.

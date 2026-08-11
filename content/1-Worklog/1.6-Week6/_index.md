@@ -15,11 +15,11 @@ pre: " <b> 1.6. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Work on the technical project                                              |  27/07/2026  |  27/07/2026  |  |
-| 3   | - Work on the technical project                                              |  28/07/2026  |  28/07/2026  |  |
+| 2   | - Quick sync with the team before starting.<br>- Learn about Amazon Cognito: create User Pool, App Client (without client secret for frontend calls), attach Cognito Authorizer to API Gateway.                                              |  27/07/2026  |  27/07/2026  |  |
+| 3   | - Align with the team on today's goals.<br>- Research Amazon ElastiCache Serverless & Semantic Cache concepts (compute embeddings for new queries, compare cosine similarity with a threshold)                                              |  28/07/2026  |  28/07/2026  |  |
 | 4   | - Write Week 2 and Week 3 Worklogs, Week 4 Worklog, and Blog Posted 1                                              |  29/07/2026  |  29/07/2026  |  |
 | 5   | - **Hands-on:**<br>&emsp;+ Create an S3 Bucket <br>&emsp;+ Upload data <br>&emsp;+ Enable Static Website Hosting <br>&emsp;+ Configure Block Public Access <br>&emsp;+ Configure public access for objects <br>&emsp;+ Test the website <br>&emsp;+ Block all public access to S3 <br>&emsp;+ Configure Amazon CloudFront <br>&emsp;+ Test Amazon CloudFront <br>&emsp;+ Enable Bucket Versioning <br>&emsp;+ Move objects <br>&emsp;+ Copy S3 Objects to another Region                                             |  30/07/2026  |  30/07/2026  |  |
-| 6   | - Work on the technical project                                              |  31/07/2026  |  31/07/2026  |  |
+| 6   | - Design flow: Query → Embedding → Lookup Redis (ElastiCache) → Proceed to retrieval + Bedrock only on cache miss                                              |  31/07/2026  |  31/07/2026  |  |
 
 
 ### Week 6 Achievements:

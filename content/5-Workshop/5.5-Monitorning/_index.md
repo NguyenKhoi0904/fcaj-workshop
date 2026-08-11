@@ -20,7 +20,7 @@ The stream is declared in `modules/monitoring/main.tf` and consists of 2 main pa
 
 #### Data Flow Diagram
 
-![Detailed Diagram for Stream 3 - Monitoring and Alerting](/images/5-Workshop/5.5-Monitorning/image.png)
+![Detailed Diagram for Stream 3 - Monitoring and Alerting](/fcaj-workshop/images/5-Workshop/5.5-Monitorning/image.png)
 
 #### Detailed Contents
 

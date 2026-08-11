@@ -26,47 +26,47 @@ Sau khi hoàn tất hạ tầng (5.4.1, 5.4.2) và toàn bộ logic xử lý (5.
 
 ##### Hình 1: Kết quả test 1
 
-![Kết quả test 1](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-1.png)
+![Kết quả test 1](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-1.png)
 
 ##### Hình 2: Kết quả test 2
 
-![Kết quả test 2](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-2.png)
+![Kết quả test 2](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-2.png)
 
 ##### Hình 3: Kết quả test 3
 
-![Kết quả test 3](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-3.png)
+![Kết quả test 3](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-3.png)
 
 ##### Hình 4: Kết quả test 4
 
-![Kết quả test 4](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-4.png)
+![Kết quả test 4](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-4.png)
 
 ##### Hình 5: Kết quả test 5
 
-![Kết quả test 5](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-5.png)
+![Kết quả test 5](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-5.png)
 
 ##### Hình 6: Kết quả test 6
 
-![Kết quả test 6](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-6.png)
+![Kết quả test 6](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-6.png)
 
 ##### Hình 7: Kết quả test 7
 
-![Kết quả test 7](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-7.png)
+![Kết quả test 7](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-7.png)
 
 ##### Hình 8: Kết quả test 8
 
-![Kết quả test 8](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-8.png)
+![Kết quả test 8](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-8.png)
 
 ##### Hình 9: Kết quả test 9
 
-![Kết quả test 9](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-9.png)
+![Kết quả test 9](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-9.png)
 
 ##### Hình 10: Kết quả test 10
 
-![Kết quả test 10](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-10.png)
+![Kết quả test 10](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-10.png)
 
 ##### Hình 11: Kết quả test 11
 
-![Kết quả test 11](/images/5-Workshop/5.4-Realtime-QA/image5.4.8-11.png)
+![Kết quả test 11](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image5.4.8-11.png)
 
 #### Kết quả đạt được
 

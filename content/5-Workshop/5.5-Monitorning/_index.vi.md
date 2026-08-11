@@ -20,7 +20,7 @@ Hạ tầng khai báo tại `modules/monitoring/main.tf`, gồm 2 phần chính:
 
 #### Sơ đồ luồng dữ liệu
 
-![Sơ đồ chi tiết Luồng 3 - Monitoring và Alert](/images/5-Workshop/5.5-Monitorning/image.png)
+![Sơ đồ chi tiết Luồng 3 - Monitoring và Alert](/fcaj-workshop/images/5-Workshop/5.5-Monitorning/image.png)
 
 #### Nội dung chi tiết
 

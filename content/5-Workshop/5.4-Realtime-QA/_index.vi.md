@@ -20,7 +20,7 @@ Luồng vận hành với **1 Lambda `chat_engine` duy nhất phục vụ 4 rout
 
 #### Sơ đồ luồng dữ liệu
 
-![Sơ đồ chi tiết Luồng 2 - Hỏi đáp Realtime](/images/5-Workshop/5.4-Realtime-QA/image.png)
+![Sơ đồ chi tiết Luồng 2 - Hỏi đáp Realtime](/fcaj-workshop/images/5-Workshop/5.4-Realtime-QA/image.png)
 
 #### Nội dung chi tiết
 

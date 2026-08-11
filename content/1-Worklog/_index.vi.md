@@ -17,9 +17,9 @@ pre: " <b> 1. </b> "
 
 **Tuần 5:** [Bắt đầu triển khai project kỹ thuật trên AWS, bắt đầu viết worklog](1.5-week5/)
 
-**Tuần 6:** [Làm công việc E...](1.6-week6/)
+**Tuần 6:** [Thực hành với S3 Bucket, thảo luận với nhóm về việc cần làm trong project kỹ thuật, tiếp tục hoàn thiện FCAJ Workshop](1.6-week6/)
 
-**Tuần 7:** [Làm công việc G...](1.7-week7/)
+**Tuần 7:** [Hoàn thiện hệ thống giám sát và đánh giá RAG, tích hợp AWS Chatbot với Slack, thiết lập CloudWatch Alarm, nghiên cứu RAGAS và kiểm thử khả năng chịu tải của hệ thống.](1.7-week7/)
 
-**Tuần 8:** [Làm công việc H...](1.8-week8/)
+**Tuần 8:** [Hoàn thiện dự án kỹ thuật, tổng hợp nội dung Event 3 và Blog 3, triển khai workshop trên GitHub, hoàn thành self-evaluation, feedback, proposal và tài liệu hướng dẫn triển khai dự án trên AWS.](1.8-week8/)
 

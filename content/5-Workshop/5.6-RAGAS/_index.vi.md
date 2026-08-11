@@ -22,7 +22,7 @@ Luồng gồm 3 phần chính:
 
 #### Sơ đồ luồng dữ liệu
 
-![Sơ đồ Luồng 4 - RAG Evaluation RAGAS](/images/5-Workshop/5.6-RAGAS/image.png)
+![Sơ đồ Luồng 4 - RAG Evaluation RAGAS](/fcaj-workshop/images/5-Workshop/5.6-RAGAS/image.png)
 _Sơ đồ: EventBridge Scheduler trigger hàng ngày → Lambda RAGAS Evaluation Runner (đọc dữ liệu từ DynamoDB Feedback Store và Chat History) → lưu kết quả vào S3 Evaluation Results._
 
 #### Nội dung chi tiết

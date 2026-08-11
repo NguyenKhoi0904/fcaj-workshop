@@ -22,25 +22,25 @@ After each upload, verify in the following order:
 
 ##### Figure 1: End-to-end test results with PDF file
 
-![End-to-end test results with PDF file](/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-1.png)
+![End-to-end test results with PDF file](/fcaj-workshop/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-1.png)
 
 ##### Figure 2: End-to-end test results with TXT file
 
 - For TXT files, the document text is extracted directly in the dialog box so you can click "Upload & Process".
 
-![End-to-end test results with TXT file](/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-2.png)
+![End-to-end test results with TXT file](/fcaj-workshop/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-2.png)
 
 ##### Figure 3: End-to-end test results with PNG file
 
 - For PNG files, the file is sent in raw format (base64) for `document-processor` to run Textract OCR — text content cannot be displayed directly in the upload dialog box.
 
-![End-to-end test results with PNG file](/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-3.png)
+![End-to-end test results with PNG file](/fcaj-workshop/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-3.png)
 
 ##### Figure 4: End-to-end test results with MD file
 
 - For MD files, the document text is extracted directly in the dialog box so you can click "Upload & Process".
 
-![End-to-end test results with MD file](/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-4.png)
+![End-to-end test results with MD file](/fcaj-workshop/images/5-Workshop/5.3-Data-Ingestion/image5.3.6-4.png)
 
 #### Key Outcomes Achieved
 

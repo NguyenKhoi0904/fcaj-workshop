@@ -16,10 +16,10 @@ pre: " <b> 1.5. </b> "
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 2   | - **Hands-on:**<br>&emsp;+ Create a SageMaker Studio <br>&emsp;+ Prepare the Dataset <br>&emsp;+ Set up Data Wrangler <br>&emsp;+ Analyze the Dataset <br>&emsp;+ Perform correlation analysis <br>&emsp;+ Transform data <br>&emsp;+ Use Feature Store <br>&emsp;+ Export data to S3 <br>&emsp;+ Train and Tune the model <br>&emsp;+ Deploy the model <br>&emsp;+ Evaluate model performance <br>&emsp;+ Automate model tuning                                              |  20/07/2026  |  20/07/2026  | <https://cloudjourney.awsstudygroup.com/vi/7-aimlservice/> |
-| 3   | - Work on the technical project                                              |  21/07/2026  |  21/07/2026  |  |
+| 3   | - Learn about Amazon Textract (OCR scanned files/images)<br>- **Practice:** Lambda polling messages from SQS and processing files                                              |  21/07/2026  |  21/07/2026  |  |
 | 4   | - Write Week 1 Worklog, Event 1, and Blog 1                                              |  22/07/2026  |  22/07/2026  |  |
 | 5   | - **Hands-on:**<br>&emsp;+ Launch an EC2 Instance <br>&emsp;+ Install AWS CLI <br>&emsp;+ Check resources using the CLI <br>&emsp;+ Use AWS CLI to create S3 resources <br>&emsp;+ Use AWS CLI with Amazon SNS <br>&emsp;+ Use AWS CLI with IAM <br>&emsp;+ Use AWS CLI with VPC <br>&emsp;+ Use AWS CLI with an Internet Gateway <br>&emsp;+ Create an EC2 Instance using AWS CLI                                              |  23/07/2026  |  23/07/2026  | https://000011.awsstudygroup.com/vi/ |
-| 6   | - Work on the technical project                                              |  24/07/2026  |  24/07/2026  |  |
+| 6   | - Complete build of Flow 1 – S3 (upload) → S3 Event → SQS (buffer + retry) → Lambda (Document Processor) → OCR for scanned files                                              |  24/07/2026  |  24/07/2026  |  |
 
 
 ### Results Achieved in Week 5:
@@ -44,4 +44,5 @@ pre: " <b> 1.5. </b> "
   * Amazon EC2.
 * Gain hands-on experience creating and managing AWS resources using AWS CLI, thereby developing a better understanding of using the CLI alongside the AWS Management Console.
 * Complete the Week 1 Worklog, Event 1, and Blog 1, thereby improving the ability to document, summarize, and present the knowledge gained during the FCAJ program.
-* Begin developing the technical project while applying AWS knowledge to the project's development and implementation.
+* Understood and implemented basic event-driven architecture: S3 Event → SQS → Lambda.
+* Automated OCR processing for images/scanned documents using Amazon Textract.

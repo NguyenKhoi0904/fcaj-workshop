@@ -31,7 +31,7 @@ The layout is **two panes**: **left** for actions (sign-in, upload, Q&A), **righ
 
 #### UI overview
 
-![Two-pane UI: action panel and pipeline observer](/images/5-Workshop/5.7-Frontend/image.png)
+![Two-pane UI: action panel and pipeline observer](/fcaj-workshop/images/5-Workshop/5.7-Frontend/image.png)
 _Screenshot of the real two-pane console (left: connect / upload / chat; right: pipeline + log)._
 
 #### Detailed contents

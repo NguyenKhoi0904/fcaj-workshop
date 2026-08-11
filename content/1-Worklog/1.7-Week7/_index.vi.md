@@ -14,10 +14,10 @@ pre: " <b> 1.7. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm project kỹ thuật                                            |  03/08/2026  |  03/08/2026  |  |
-| 3   | - Làm project kỹ thuật                                            |  04/08/2026  |  04/08/2026  |  |
-| 4   | - Làm project kỹ thuật                                            |  05/08/2026  |  05/08/2026  |  |
-| 5   | - Làm project kỹ thuật                                            |  06/08/2026  |  06/08/2026  |  |
+| 2   | - Kết nối AWS Chatbot với Slack Workspace của nhóm — xử lý bước OAuth authorize Slack (nhờ trưởng nhóm cấp quyền admin workspace).                                            |  03/08/2026  |  03/08/2026  |  |
+| 3   | - Tạo các CloudWatch Alarm riêng biệt: Lambda Errors (ngưỡng > 5 lỗi/5 phút → Warning), API Gateway 5xx (ngưỡng tương tự → Warning)                                            |  04/08/2026  |  04/08/2026  |  |
+| 4   | - Tìm hiểu sâu framework RAGAS — cụ thể là cách 3 chỉ số được tính: Faithfulness đo mức độ câu trả lời có bám sát nội dung context được truy xuất (dùng chính LLM để chấm chéo), Answer Relevancy đo câu trả lời có đúng trọng tâm câu hỏi, Context Precision đo chất lượng của bước retrieval.                                            |  05/08/2026  |  05/08/2026  |  |
+| 5   | - Dùng script gửi 50 request đồng thời tới API Gateway để xem hệ thống phản ứng ra sao. <br> - Phát hiện ElastiCache Serverless xử lý tốt nhưng Lambda Chat Engine bị giới hạn concurrency mặc định (1000)                                            |  06/08/2026  |  06/08/2026  |  |
 | 6   | - Viết worklog tuần 5, 6, 7 event 2, blog posted 2                                            |  07/08/2026  |  07/08/2026  |  |
 
 
